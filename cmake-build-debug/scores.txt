@@ -1,0 +1,4 @@
+Airport: MEX, Money: 56320, Day: 41
+Airport: GRU, Money: 17123, Day: 33
+Airport: PEK, Money: 19847, Day: 52
+Airport: ICN , Money: 13950, Day: 64

@@ -1,0 +1,18 @@
+# ninja log v6
+26	846	7483890522275996	CMakeFiles/lotnisko.dir/Runway.cpp.obj	2987e9d01116a0fa
+19	796	7483890522200527	CMakeFiles/lotnisko.dir/Entities.cpp.obj	20100f31e996e628
+16	667	7483909971558716	CMakeFiles/lotnisko.dir/main.cpp.obj	a956ad81f1e88fb4
+22	986	7483909971619571	CMakeFiles/lotnisko.dir/Airport.cpp.obj	ac2c71c607c8a033
+986	1137	7483909981256212	lotnisko.exe	d6edb322f6acc5a7
+26	226	7484457225281206	CMakeFiles/lotnisko.dir/JustDays.cpp.obj	78f68291f054b641
+14	895	7484457225158042	CMakeFiles/lotnisko.dir/main.cpp.obj	a956ad81f1e88fb4
+22	1200	7484457225240387	CMakeFiles/lotnisko.dir/Airport.cpp.obj	ac2c71c607c8a033
+1200	1381	7484457237022748	lotnisko.exe	ac0d45deb3eef7a9
+7	1021	7484459271477728	CMakeFiles/lotnisko.dir/Airport.cpp.obj	ac2c71c607c8a033
+1033	1252	7484459281743965	lotnisko.exe	ac0d45deb3eef7a9
+8	975	7484461402328370	CMakeFiles/lotnisko.dir/Airport.cpp.obj	ac2c71c607c8a033
+976	1128	7484461412008743	lotnisko.exe	ac0d45deb3eef7a9
+6	962	7484461985531500	CMakeFiles/lotnisko.dir/Airport.cpp.obj	ac2c71c607c8a033
+963	1101	7484461995092355	lotnisko.exe	ac0d45deb3eef7a9
+6	956	7484462249472720	CMakeFiles/lotnisko.dir/Airport.cpp.obj	ac2c71c607c8a033
+956	1176	7484462258971301	lotnisko.exe	ac0d45deb3eef7a9
